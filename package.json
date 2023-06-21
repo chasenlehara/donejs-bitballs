@@ -17,20 +17,20 @@
     "async": "^1.4.0",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.13.3",
-    "bookshelf": "^0.8.1",
+    "bookshelf": "^0.9.1",
     "checkit": "^0.6.0",
     "cookie-parser": "^1.4.1",
-    "db-migrate": "^0.9.18",
+    "db-migrate": "^0.10.0",
     "ejs": "^2.3.1",
     "express": "~4.9.x",
     "express-session": "^1.11.3",
     "knex": "^0.8.6",
     "lodash": "^3.10.1",
     "nodemailer": "^2.3.0",
-    "npm": "^3.7.2",
+    "npm": "^7.0.0",
     "passport": "~0.2.0",
     "passport-local": "^1.0.0",
-    "pg": "4.x"
+    "pg": "8.4.0"
   },
   "engines": {
     "node": "0.12.2"
